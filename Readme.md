@@ -1,0 +1,1 @@
+Hi. Welcome in my handy functions dump.
